@@ -1,0 +1,38 @@
+{
+  "handcrafted_cols": [
+    "subject_len",
+    "body_len",
+    "word_count",
+    "urgency_score",
+    "caps_ratio",
+    "exclamation_count",
+    "digit_ratio",
+    "unique_word_ratio",
+    "has_url"
+  ],
+  "urgency_keywords": [
+    "verify",
+    "update",
+    "confirm",
+    "urgent",
+    "immediately",
+    "suspend",
+    "account",
+    "password",
+    "click",
+    "login",
+    "security",
+    "limited",
+    "act now",
+    "expire",
+    "validate",
+    "reactivate",
+    "locked",
+    "blocked",
+    "alert",
+    "attention",
+    "warning",
+    "important",
+    "unusual activity"
+  ]
+}
